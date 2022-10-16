@@ -1,0 +1,28 @@
+[
+    {
+        "id": 1,
+        "name": "vivek",
+        "MobileNo": "8483807175",
+        "college": "ADCET",
+        "Company": "Wipro",
+        "src": "assets/photo.jpeg",
+        "alt": "user1photo",
+        "class": "user1photo",
+        "klass": "user1",
+        "button": "Vivek's Info"
+        
+    },
+    {
+        "id": 2,
+        "name": "akhilesh",
+        "MobileNo": "9158965307",
+        "college": "College Of Engineering Pune",
+        "Comapany": "Asian Paints",
+        "src": "assets/IMG_6381.JPG",
+        "alt": "user2photo",
+        "class": "user2photo",
+        "klass": "user2",
+        "button": "akhilesh's Info"
+        
+    }
+]
